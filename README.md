@@ -15,7 +15,7 @@ Check out the [project site](http://www-vpu.eps.uam.es/publications/SkinDetDM) f
 Please cite the following publication if this software helps your research:
 
 
-    @article{sanmiguel2012TIP,
+    @article{sanmiguel2013PRL,
       Author = {J. SanMiguel and S. Suja},
       Journal = {Pattern Recognition Letters},
       Title = {Skin detection by dual maximization of detectors agreement for video monitoring},
